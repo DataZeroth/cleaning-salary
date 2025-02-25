@@ -1,1 +1,1 @@
-# cleaning-salary
+# Salarys - Data Cleaning in SQL
